@@ -1,0 +1,51 @@
+__Object Pronouns__ 'Detrás de verbo y preposicion'
+
+	She loves him
+	She loves it
+	She loves them
+	She loves her
+	She loves us
+	She loves me
+	She loves you
+
+__Possessive Adjectives__'Delante del verbo'
+	'Hay que tener cuidado con los plurales como men, woman. Los adjetivos posesivos sustituyen al 'su'
+en castellano'
+
+	My book
+	His book
+	Your book
+	Our book
+	Their book
+	Her book
+	Its bed
+
+__Possessive Pronouns__
+
+	It's mine
+	It's his
+	They're hers
+	It's yours
+	They're ours
+	It's hers
+	It's theirs
+	
+__Reflexive pronouns__
+
+	myself
+	yourself
+	himself
+	herself
+	itself
+	ourselves
+	yourselves
+	themselves
+
+Robert made this T-shirt himself.
+Lisa did the homework herself.
+We helped ourselves to some cola at the party.
+Emma, did you take the photo by yourself?.
+I wrote this poem myself.
+He cut himself with the knife while he was doing the dishes.
+The lion can defend itself.
+My mother often talks to herself.
