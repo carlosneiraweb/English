@@ -1,5 +1,5 @@
-Someone must tell him about the accident.
-	He must be tell about the accident.
+Someone must tell him about the accident.				CD=>QUE, QUIEN
+	He must be tell about the accident.				CI=>A QUIEN, PARA QUIEN
 
 They are going to rebuild the Town Hall.
 	The Town Hall is going to be rebuilt.
@@ -155,7 +155,7 @@ I have to mend this watch.
 
 Paul has written her a letter this week.
 	She was been writter a letter.
-	A letter has been written to Paul.
+	A letter has been written to her.
 
 The owner of the shop had left his dog outside.
 	His dog had been left outside.
