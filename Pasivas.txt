@@ -180,7 +180,7 @@ Thouse hospitals will not inagurated until the end of spring.
 Will a new vaccine be discovered soon?
 Will his new book be published in two week's time?
 Dr Paker will be offered to deliver a speech on nutrition
-This child will be taught to have betters manners.
+This child will be taught to have better manners.
 If that man wins the elections, the country will be being ruled by a dictator./dirigido/
 Those toys will be being produced in China next year.
 
@@ -193,14 +193,14 @@ Are these bills going to be paid before they are due?/vezcan, sean pagaderas, sh
 Is a war going to be fought between the two neighboring countries?
 All the staff is going to be told to attend the seminar.
 Farmers are going to be asked to grow potatoes./cultivar=grow,till,farm/
-The country is going to be being ruled by a dictator.
+The country is going to be being ruled by a dictator./regla,norma, dirigir/
 Thouse toys are going to be being produced in China next year.
 If that man wins the elections, the country is going to be being ruled by a dictator.
 Thouse toys are going to be being produced in China next year.
 
 FUTURE IN PAST(Una casa iba a ser construida)
 The soldiers thought they were going to be ambushed that night. /emboscados/
-It is believed that a dich was going to be dug along the road. /zanja/
+It is believed that a ditch was going to be dug along the road. /zanja/
 The store was not going to be closed before 8:00pm.
 This incident was not going to be easily forgotten.
 Was a new song going to be recorded?
@@ -212,11 +212,11 @@ They didn't get into the room because they thought that it was going to be being
 
 CONDITIONAL
 Jeff would be invited to the party if he knew Cindy.
-If there were a good canidate for this job, the vacancy would be filled.
+If there were a good candidate for this job, the vacancy would be filled.
 The goods would not be shipped if they were defective./transportados/
 In this house had latent defects, it would not be put up for sale./defectos ocultos/
-Would the witnesses be taken depositions if they knew nothing./testigos//declaración,testimonio/
-Would lice be asked to leave if the hostess did not invite her?
+Would the witnesses be taken depositions if they knew nothing./testigos//declaraciónes,testimonio/
+Would Alice be asked to leave if the hostess did not invite her?/anfitriona/
 Bob would be asked to mail the letters if he was ...
 His kids would be taught to drive if they were 18 years old.
 
@@ -226,7 +226,7 @@ Questions cannot be asked during the conference.
 It is said that this system must be improved.
 A doctor should be called in case of accident.
 It is thought that the accused should not be sued for damages.(demandado)
-Could this old church be refurbished?(reformado)
+Could this old church be refurbished?(reformado|restore/reform)
 Must the floor be kept clean?
 Should these towels be washed?
 The speaker should be given a microphone to deliver his speech./orador//entregar, llevar, pronunciar/
@@ -236,7 +236,7 @@ PRESENT PERFECT(Una casa ha sido construida)
 The whole city has been destroyed by the earthquake.
 I can't get in. These doors have been locked!
 Those windows have not been closet yet.
-This wooden floor has not been waxed./encerado/
+This wooden floor has not been waxed./encerado/~waachss~
 Has uncle John been promoted to president of the company?
 Have the mistakes been made before?
 People have been requested to cancel appointments before Monday./solicitado//cancelar/
@@ -256,10 +256,10 @@ I learnt that condensed milk had been being produced in America since the mid  1
 "The Real Information Digger", a journel in which my articles had been being publhised, was banned by the government./prohibido/
 
 FUTURE PERFECT (Se habrá construido una casa, Habrá sido )
-Your tapestry will have been woven by Friday./tapiceria/tjida/
+Your tapestry will have been woven by Friday./tapiceria/tejida/
 Thouse fossils will have been examined by experts before December.
 The crop will not have been ruined by the frost this year./cosecha//helada/
-It is thought that he will not haven been elected president in the coming elections.
+It is thought that he will not haven been elected president in the coming elections./proximas elecciones/
 When will his research project have been finished?
 By the end of fall, they will have been taught to ski.
 Will this river have been polluted by the year 2020?
@@ -278,10 +278,10 @@ Look, if the ammunition is left in the open, it is going to have been destroyed 
 FUTURE PERFECT IN PAST(Una casa iba a haber sido contruida)
 That movie originally was going to have been directed by Francis Ford Coppola.
 They thought that, with the new monument, the city was going to have been visited by more tourists that year.
-At first, the statue was going to have been made in bronze.
+At first, the statue was going to have been made in bronze.~stachiu~
 They figured the merchandise was going to have been sent that same day./figura, figurar, calcular/
 They informed us that the stadium was going to have been closed for renovations.
-They famous writer explined his that his new novel was going to have been translated into Spanish that year.
+The famous writer explined that his new novel was going to have been translated into Spanish that year.
 The police thought that the robbers were going to have been caught that same day.
 At first, those products were not going to have been manufactured in China.
 
@@ -294,7 +294,7 @@ They would have been offered to upgrade their computers if they had paid $500.
 My brother would have been paid to fix this microwave if he had had the tools to do so.
 
 MODALS + HAVE(Una casa podría haber sido construida)
-The day had been hot and sunny. The garde should have been watered at twilight./regado//crepúsculo,ocaso/
+The day had been hot and sunny. The garden should have been watered at twilight./regado//crepúsculo,ocaso/
 Susan feels tired. She must have been working hard lately.
 These shoes should not have been mended. They are too old.
 Smokers should not have been allowed inside the restaurant.
