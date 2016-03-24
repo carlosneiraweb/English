@@ -52,7 +52,7 @@ People believe that the Lonch Ness Monster really existed.
 	The Lonch Ness Monster is believed to have really existed.
 
 My car needs servicing.
-	My car needs to be servicing.
+	My car needs to be serviced.
 
 They sacked Mary last week.
 	Mary was sacked last week.
@@ -114,7 +114,7 @@ Your car needs servicing. (servicio, mantener, revisar)
 	You should have your car serviced.
 	You should get your car serviced.
 
-It is said that the new Harry Potter film wil be released in June.
+It is said that the new Harry Potter film will be released in June.
 	People say the new Harry Potter film will be released in June.
 	The new Harry Potter film is said to be released in June.
 
@@ -132,7 +132,7 @@ People believe that the Forum will be a success.
 	The Forum is believed to be a success.
 
 I was buying the newspaper when I saw Mary this morning.
-	The newspaper was being when Mary was seen this morning.
+	The newspaper was being bought when Mary was seen this morning.
 
 They had been painting the house on Monday.
 	The house had been painted on Monday.
@@ -144,7 +144,7 @@ She has given Paul a kiss this morning.
 I don't know her.
 	She isn't known.
 
-He has driving his car when I phoned her.
+He was driving his car when I phoned her.
 	His car was being driven when she was phoned.
 
 They have stolen all the food.
@@ -154,7 +154,7 @@ I have to mend this watch.
 	This watch has to be mended.
 
 Paul has written her a letter this week.
-	She was been writter a letter.
+	She has been writter a letter.
 	A letter has been written to her.
 
 The owner of the shop had left his dog outside.
@@ -170,13 +170,13 @@ Past(Una casa fue construida)
 Our dog was not allowed to travel with us.
 You were not called yesterday.
 Was the Tower London used as a prision in former times? Ex wife, Ex work
-Was he thought to have a gift for music? /talento/
+Was he thought have a gift for music? /talento/
 
 FUTURE(Una casa será construida)
 The literary contest will be judged by a panel of distinguished writers./concurso//grupo,elegir jurado, comite, tablero, panel de mandos/
 It is estimated that millions of gallons will be yielded annually by the new oil wells./ceder el paso, producir,rendimiento, cosecha//pozo, fuente, manar, brotar/
 The new rocket will not be launched until next year.
-Thouse hospitals will not inagurated until the end of spring.
+Thouse hospitals will not be inagurated until the end of spring.
 Will a new vaccine be discovered soon?
 Will his new book be published in two week's time?
 Dr Paker will be offered to deliver a speech on nutrition
