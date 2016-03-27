@@ -149,7 +149,7 @@ Despite having a terrible headache, he went to the office.(had)
 	Even though he had a terrible headache, he went to the office.
 
 He loves going to the theatre while his wife prefers to stay at home.
-	He loves going to th theatre whereas his wife prefers to stay at home.
+	He loves going to the theatre whereas his wife prefers to stay at home.
 
 I sat by window in order to  see the landscape.(that),(paisaje, ajardinar)
 	I sat by the window in order that I could see the landscape.
@@ -167,7 +167,7 @@ Seeing that we'd run out of milk, we went to the supermarket.(because)
 As well as renewing the kitchen, she redecorated her bedroom.(to)
 	In addition to renewing the kitchen, she redecorated her bedroom.(además de)
 
-Although the city has 50 km limit, people are often fired for exceeding the speed limit.(so)(fino, bueno, hermoso, multa, multar)
+Although the city has 50 km limit, people are often fined for exceeding the speed limit.(so)(fino, bueno, hermoso, multa, multar)
 	The city has a 50 km limit. Even so, people are often fined for exceeding the speed limit.
 
 Many sportsmen are disqualified as a consequence af their ilegal use of drugs.(consequently)
@@ -233,8 +233,8 @@ She missed the bus so she had to take a taxi.
 She was very intelligent, she pretended not to understand.(of)
 	In spite of being very intelligent, she pretended no to understand.
 
-In addition to bying a new coat for his wife, he bought himself a cardigan.(besides)
-	Besides bying a new coat for his wife, he bought himself a cardigan.
+In addition to buying a new coat for his wife, he bought himself a cardigan.(besides)
+	Besides buying a new coat for his wife, he bought himself a cardigan.
 	
 Sheila went to the garage to have her car serviced.(so)
 	Sheila went to the garage so that she could have her car serviced.
@@ -246,10 +246,10 @@ He broke his left hand as a result of a skiing accident.(due)
 I like Harry Poter's books. My brothers does not.
 	I like Harry Poter's books whereas my brother does not.
 	Contrary to my brother I like Harry Potter's books.
-	In contrast to my brother, I like Harry Pott er's books.
+	In contrast to my brother, I like Harry Potter's books.
 
 She didn't telephone John because she didn't have his number.
 	She didn't have Jonh's number so she didn't telephone him.
 
 Although he had excellend qualifications he didn't get the job.(yet)
-	H e had excellend qualifications. Yet, he didn't get the job.
+	He had excellend qualifications. Yet, he didn't get the job.

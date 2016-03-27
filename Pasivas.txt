@@ -225,7 +225,7 @@ Nothing can be done to solve this mystery.
 Questions cannot be asked during the conference.
 It is said that this system must be improved.
 A doctor should be called in case of accident.
-It is thought that the accused should not be sued for damages.(demandado)
+It is thought that the accused should not be sued for damages.(demandado)(demand=>demanda)
 Could this old church be refurbished?(reformado|restore/reform)
 Must the floor be kept clean?
 Should these towels be washed?
@@ -250,7 +250,7 @@ Before the Richardsons got home, their house had been burglarized./desvalijada/
 Hotel reservations had been made before Mr.Miller flew to N.Y.
 Had the gas tank been filled before they left?
 Had Bill been told to bring the wine to the party?
-This mechanic had been paid to fix their limo./limosina/~limou~
+This mechanic had not been paid to fix their limo./limosina/~limou~
 The tourists had been shown the map of the city before they were taken there.
 I learnt that condensed milk had been being produced in America since the mid  1850s.
 "The Real Information Digger", a journel in which my articles had been being publhised, was banned by the government./prohibido/
