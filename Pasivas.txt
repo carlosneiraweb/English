@@ -88,7 +88,7 @@ They are going to revise the club's rules.
 Somebody must do it.
 	It must be done.
 
-I took my ring to the jeweller's and he mended it.
+I took my ring to the jeweller's and he mended it.~jchiiula~
 	I had my ring mended by the jeweller's.
 
 People believe that the climate is changing.
@@ -106,7 +106,7 @@ They gave John another opportunity.
 	John was given another opportunity.
 	Another opportunity was given to John.
 
-Mary will send all the letters, as scheduled. (como estaba previsto)
+Mary will send all the letters, as scheduled. (como estaba previsto)~as ssechuuld~
 	All the letters will be sent, as scheduled.
 
 Your car needs servicing. (servicio, mantener, revisar)
@@ -177,7 +177,7 @@ The literary contest will be judged by a panel of distinguished writers./concurs
 It is estimated that millions of gallons will be yielded annually by the new oil wells./ceder el paso, producir,rendimiento, cosecha//pozo, fuente, manar, brotar/
 The new rocket will not be launched until next year.
 Thouse hospitals will not be inagurated until the end of spring.
-Will a new vaccine be discovered soon?
+Will a new vaccine be discovered soon? ~vacziin~
 Will his new book be published in two week's time?
 Dr Paker will be offered to deliver a speech on nutrition
 This child will be taught to have better manners.
@@ -185,7 +185,7 @@ If that man wins the elections, the country will be being ruled by a dictator./d
 Those toys will be being produced in China next year.
 
 FUTURE(going to)(Una casa va a ser construida)
-The jewels are going to be hidden in a safe place.
+The jewels are going to be hidden in a safe place.~jchiuls~
 The meeting is going to be held tomorrow at 10:00.
 It is thought that the painting is not going to be sold without his authorization.
 Her attorney is sure that the lawsuit is not going to be lost./abogado=lawyer//demanda judicial, pleito/
@@ -199,12 +199,12 @@ If that man wins the elections, the country is going to be being ruled by a dict
 Thouse toys are going to be being produced in China next year.
 
 FUTURE IN PAST(Una casa iba a ser construida)
-The soldiers thought they were going to be ambushed that night. /emboscados/
-It is believed that a ditch was going to be dug along the road. /zanja/
+The soldiers thought they were going to be ambushed that night. /emboscados/~ambeeschs~
+It is believed that a ditch was going to be dug along the road. /zanja/~diitch~~
 The store was not going to be closed before 8:00pm.
 This incident was not going to be easily forgotten.
 Was a new song going to be recorded?
-Were the parcels going to be sent yesterday?/paquetes/
+Were the parcels going to be sent yesterday?/paquetes/~pausols~
 I thought that a test pilot was going to be told to fly the plane.
 At first, the guest were going to be offered to choose their rooms.
 I thought this wall was going to be being painted by someone else, not by me.
@@ -213,10 +213,10 @@ They didn't get into the room because they thought that it was going to be being
 CONDITIONAL
 Jeff would be invited to the party if he knew Cindy.
 If there were a good candidate for this job, the vacancy would be filled.
-The goods would not be shipped if they were defective./transportados/
+The goods would not be shipped if they were defective./transportados/~siipich~ ~difeetcheff~
 In this house had latent defects, it would not be put up for sale./defectos ocultos/
 Would the witnesses be taken depositions if they knew nothing./testigos//declaraciónes,testimonio/
-Would Alice be asked to leave if the hostess did not invite her?/anfitriona/
+Would Alice be asked to leave if the hostess did not invite her?/anfitriona/~houschass~
 Bob would be asked to mail the letters if he was ...
 His kids would be taught to drive if they were 18 years old.
 
@@ -225,8 +225,8 @@ Nothing can be done to solve this mystery.
 Questions cannot be asked during the conference.
 It is said that this system must be improved.
 A doctor should be called in case of accident.
-It is thought that the accused should not be sued for damages.(demandado)(demand=>demanda)
-Could this old church be refurbished?(reformado|restore/reform)
+It is thought that the accused should not be sued for damages.(demandado)(demand=>demanda)~aquiiusch~
+Could this old church be refurbished?(reformado|restore/reform)~riforbech~
 Must the floor be kept clean?
 Should these towels be washed?
 The speaker should be given a microphone to deliver his speech./orador//entregar, llevar, pronunciar/
@@ -253,7 +253,7 @@ Had Bill been told to bring the wine to the party?
 This mechanic had not been paid to fix their limo./limosina/~limou~
 The tourists had been shown the map of the city before they were taken there.
 I learnt that condensed milk had been being produced in America since the mid  1850s.
-"The Real Information Digger", a journel in which my articles had been being publhised, was banned by the government./prohibido/
+"The Real Information Digger", a journel in which my articles had been being publhised, was banned by the government./prohibido/~bann~
 
 FUTURE PERFECT (Se habrá construido una casa, Habrá sido )
 Your tapestry will have been woven by Friday./tapiceria/tejida/
@@ -273,7 +273,7 @@ By next year, the economy of this country is going to have been improved by the 
 These products are going to have been inspected before their shipment./envío/
 By the time they graduate from the academy, these young officer are going to have been given a complete training.
 The soldiers are going to have been transported to the war zone by helicopters during the night.
-Look, if the ammunition is left in the open, it is going to have been destroyed by the rain./munición//aire libre/ 
+Look, if the ammunition is left in the open, it is going to have been destroyed by the rain./munición//aire libre/ ~am-minezen~
 
 FUTURE PERFECT IN PAST(Una casa iba a haber sido contruida)
 That movie originally was going to have been directed by Francis Ford Coppola.
@@ -281,12 +281,12 @@ They thought that, with the new monument, the city was going to have been visite
 At first, the statue was going to have been made in bronze.~stachiu~
 They figured the merchandise was going to have been sent that same day./figura, figurar, calcular/
 They informed us that the stadium was going to have been closed for renovations.
-The famous writer explined that his new novel was going to have been translated into Spanish that year.
+The famous writer explained that his new novel was going to have been translated into Spanish that year.
 The police thought that the robbers were going to have been caught that same day.
 At first, those products were not going to have been manufactured in China.
 
 CONDITIONAL PERFECT(Una casa habría sido construida)
-Your shirts would have been ironed if the maid had come yesterday./críada/
+Your shirts would have been ironed if the maid had come yesterday./críada/~meid~
 If the cook had learnt the recipe, the bread would have been backed properly./horneado/
 Would Mr.Jones have been granted a loan if he had been unemployed?/concedido/
 Would Ms.Baxter have been promoted if she had not been efficent?
@@ -299,7 +299,7 @@ Susan feels tired. She must have been working hard lately.
 These shoes should not have been mended. They are too old.
 Smokers should not have been allowed inside the restaurant.
 Should the candles have been lit up in the evening? /iluminado, iluminar/
-The statue should have been shown in the art gallery.
+The statue should have been shown in the art gallery.~sstachii~
 Johny was fired. I think he should have been given another opportunity.
 Diana's death could have been prevented.
 The infections he had suffered might have been caused by the contaminated catheters./catéteres/
