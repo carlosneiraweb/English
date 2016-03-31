@@ -24,7 +24,7 @@ Jack didn't study for the test, still he managed to pass it.
 I was invited to a party on saturday, but went to bed instead.
 I am not going out tonight. Instead, I will stay home and cook something.
 The boy is not dumb; on the contrary, he's very smart for his age.
-Condors are solitary birds. On the contrary seagulls live in flocks.(gaviotas viven en bandadas)
+Condors are solitary birds. On the contrary, seagulls live in flocks.(gaviotas viven en bandadas)
 Contrary to my husband, I enjoy going to the beach.
 In contrast to my neighbours, I don't like using the lift.
 
@@ -70,7 +70,7 @@ __CONCLUSIVOS__ (Reflejan la consequencia de lo dicho en el texto)
 
 I don't know her phone number, therefore I can't call her.
 She didn't study, therefore she couldn't pass the exam.
-English is not her mother tongue, hence her mistakes
+English is not her mother tongue, hence her mistakes. ~tongg~
 Frank was raised in a farm, hence his ability to ride horses.
 He overslept and thus, arrived late for the appointment.
 She hadn't eaten for days and thus felt very weak.
@@ -84,7 +84,7 @@ If you like those shoes, then why don't you buy them?.
 They work very hard; moreover, they do a very good job.(además)
 I don't want stay here; furthermore, I have things  to do.(además)
 I don't want to sell my car; besides, I need it for my job.
-In addition to being a great person, the physician was an excellent profesional.
+In addition to being a great person, the physician was an excellent profesional.(medico, facultativo)~fizicen~
 Mrs. Baker had a great interest in literature, in addition to her interest in music.(además de)
 As well as being an excellent painter, she writes poems and plays the piano.
 
@@ -170,7 +170,7 @@ As well as renewing the kitchen, she redecorated her bedroom.(to)
 Although the city has 50 km limit, people are often fined for exceeding the speed limit.(so)(fino, bueno, hermoso, multa, multar)
 	The city has a 50 km limit. Even so, people are often fined for exceeding the speed limit.
 
-Many sportsmen are disqualified as a consequence af their ilegal use of drugs.(consequently)
+Many sportsmen are disqualified as a consequence of their ilegal use of drugs.(consequently)
 	Many sportsmen use ilegal of drugs. Consequently, they are discualified.
 
 John won the race.Nevertheless, he didn't feel happy.(despite)(sin embargo, no obstante)
@@ -192,7 +192,7 @@ She is an excellent secretary. However, she has never been prometed.(spite)(sin 
 She opened the car window so that she could get some fresh aire.(in order to)
 	She opened the car window in order to get some fresh aire.
 
-I opened the window due to the heat.(because)(calor, calefación, calentar)
+I opened the window due to the heat.(because)(calor, calefación, calentar)~jiit~
 	I openend the window because it was hot.
 
 We didn't go swimming becasue the weater wasn't very clean.(so)
@@ -215,7 +215,7 @@ I enjoy going to the beach. My husband does not.
 As a cosequence of his father's illness, he couldn't go to work.
 	Since his father was ill, he couldn't go to work.
 
-Although he was an excellent student, he didn't get grand.(However)(subvención, beca)
+Although he was an excellent student, he didn't get the grand.(However)(subvención, beca)
 	He was an excellent student. However, he didn't get the grant.
 
 They lost the match due to the bad weather.(as)
