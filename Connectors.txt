@@ -162,7 +162,7 @@ Althoug Ann isn't very attractive, she is very popular.(However=>sin embargo, no
 	Ann isn't very attractive.However she is very popular.
 
 Seeing that we'd run out of milk, we went to the supermarket.(because)
-	We went to the supermarket because we'd run out milk.
+	We went to the supermarket because we'd run out of milk.
 
 As well as renewing the kitchen, she redecorated her bedroom.(to)
 	In addition to renewing the kitchen, she redecorated her bedroom.(además de)

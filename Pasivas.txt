@@ -1,5 +1,5 @@
 Someone must tell him about the accident.				CD=>QUE, QUIEN
-	He must be tell about the accident.				CI=>A QUIEN, PARA QUIEN
+	He must be told about the accident.				CI=>A QUIEN, PARA QUIEN
 
 They are going to rebuild the Town Hall.
 	The Town Hall is going to be rebuilt.
