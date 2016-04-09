@@ -1,5 +1,158 @@
-Someone must tell him about the accident.				CD=>QUE, QUIEN
-	He must be told about the accident.				CI=>A QUIEN, PARA QUIEN
+CD=>QUE, QUIEN
+CI=>A QUIEN, PARA QUIEN
+
+
+Present(Una casa es construida)
+Jane is not supposed to be home at this time.
+The sidewalks in this quarter are not swept up every day./aceras//trimestre, cuarto, barrio/
+Is baseball played in South Africa?
+A wellcome dinner for the guests is being prepared right now.  
+
+Past(Una casa fue construida)
+Our dog was not allowed to travel with us.
+You were not called yesterday.
+Was the Tower London used as a prision in former times? Ex wife, Ex work
+Was he thought have a gift for music? /talento/
+
+FUTURE(Una casa será construida)
+The literary contest will be judged by a panel of distinguished writers./concurso//grupo,elegir jurado, comite, tablero, panel de mandos/~distinguesch~
+It is estimated that millions of gallons will be yielded annually by the new oil wells./ceder el paso, producir,rendimiento, cosecha//pozo, fuente, manar, brotar/
+The new rocket will not be launched until next year.
+Thouse hospitals will not be inagurated until the end of spring.
+Will a new vaccine be discovered soon? ~vacziin~
+Will his new book be published in two week's time?
+Dr Paker will be offered to deliver a speech on nutrition
+This child will be taught to have better manners.
+If that man wins the elections, the country will be being ruled by a dictator./dirigido/
+Those toys will be being produced in China next year.
+
+__FUTURE__(going to)(Una casa va a ser construida)
+The jewels are going to be hidden in a safe place.~jchiuls~
+The meeting is going to be held tomorrow at 10:00.
+It is thought that the painting is not going to be sold without his authorization.
+Her attorney is sure that the lawsuit is not going to be lost./abogado=lawyer//demanda judicial, pleito/
+Are these bills going to be paid before they are due?/vezcan, sean pagaderas, she was due= se esperaba que/
+Is a war going to be fought between the two neighboring countries?
+All the staff is going to be told to attend the seminar.
+Farmers are going to be asked to grow potatoes./cultivar=grow,till,farm/
+The country is going to be being ruled by a dictator./regla,norma, dirigir/
+Thouse toys are going to be being produced in China next year.
+If that man wins the elections, the country is going to be being ruled by a dictator.
+Thouse toys are going to be being produced in China next year.
+
+__FUTURE IN PAST__(Una casa iba a ser construida)
+The soldiers thought they were going to be ambushed that night. /emboscados/~ambeeschs~
+It is believed that a ditch was going to be dug along the road. /zanja/~diitch~~
+The store was not going to be closed before 8:00pm.
+This incident was not going to be easily forgotten.
+Was a new song going to be recorded?
+Were the parcels going to be sent yesterday?/paquetes/~pausols~
+I thought that a test pilot was going to be told to fly the plane.
+At first, the guest were going to be offered to choose their rooms.
+I thought this wall was going to be being painted by someone else, not by me.
+They didn't get into the room because they thought that it was going to be being used by the managers of the company.
+
+__CONDITIONAL__
+Jeff would be invited to the party if he knew Cindy.
+If there were a good candidate for this job, the vacancy would be filled.~veiconcy~
+The goods would not be shipped if they were defective./transportados/~siipich~ ~difeetcheff~
+In this house had latent defects, it would not be put up for sale./defectos ocultos/
+Would the witnesses be taken depositions if they knew nothing./testigos//declaraciónes,testimonio/
+Would Alice be asked to leave if the hostess did not invite her?/anfitriona/~houschass~
+Bob would be asked to mail the letters if he was ...
+His kids would be taught to drive if they were 18 years old.
+
+__MODALS__ (Una casa podría ser construida)
+Nothing can be done to solve this mystery.
+Questions cannot be asked during the conference.
+It is said that this system must be improved.
+A doctor should be called in case of accident.
+It is thought that the accused should not be sued for damages.(demandado)(demand=>demanda)~aquiiusch~/~suuttch~
+Could this old church be refurbished?(reformado|restore/reform)~riforbech~
+Must the floor be kept clean?
+Should these towels be washed?
+The speaker should be given a microphone to deliver his speech./orador//entregar, llevar, pronunciar/
+The janitor must be told to lock the front door./portero, conseje/~llanooto~
+
+__PRESENT PERFECT__(Una casa ha sido construida)
+The whole city has been destroyed by the earthquake.
+I can't get in. These doors have been locked!
+Those windows have not been closet yet.
+This wooden floor has not been waxed./encerado/~waachss~
+Has uncle John been promoted to president of the company?
+Have the mistakes been made before?
+People have been requested to cancel appointments before Monday./solicitado//cancelar/
+Guess what... Jack has been taught to drive car!
+Stricter and stricter measures have been being taken to reduce crime in the city./cada vez más extrictas/
+My mother has been being treated by the same doctor for years.
+
+__PAST PERFECT__(Se había construido una casa)
+A strike had been organized before the workers were dismissed.
+Before the Richardsons got home, their house had been burglarized./desvalijada/
+Hotel reservations had been made before Mr.Miller flew to N.Y.
+Had the gas tank been filled before they left?
+Had Bill been told to bring the wine to the party?
+This mechanic had not been paid to fix their limo./limosina/~limou~
+The tourists had been shown the map of the city before they were taken there.
+I learnt that condensed milk had been being produced in America since the mid  1850s.
+"The Real Information Digger", a journel in which my articles had been being publhised, was banned by the government./prohibido/~bann~
+
+__FUTURE PERFECT__ (Se habrá construido una casa, Habrá sido )
+Your tapestry will have been woven by Friday./tapiceria/tejida/
+Thouse fossils will have been examined by experts before December.
+The crop will not have been ruined by the frost this year./cosecha//helada/
+It is thought that he will not haven been elected president in the coming elections./proximas elecciones/
+When will his research project have been finished?
+By the end of fall, they will have been taught to ski.
+Will this river have been polluted by the year 2020?
+The cake will have been being bake for over two hours by the time you get home./hornear, coción/
+
+__FUTURE PERFECT, GOING TO__ (Una casa va  a haber sido construida)
+The project is going to have been completed before the deadline./límite/
+A new computer game is going to have been developed by December.
+By this time tomorrow, many more areas in the city are going to have been affected by the flood.
+By next year, the economy of this country is going to have been improved by the reforms underway./proceso/
+These products are going to have been inspected before their shipment./envío/
+By the time they graduate from the academy, these young officer are going to have been given a complete training.
+The soldiers are going to have been transported to the war zone by helicopters during the night.
+Look, if the ammunition is left in the open, it is going to have been destroyed by the rain./munición//aire libre/ ~am-minezen~
+
+__FUTURE PERFECT IN PAST__(Una casa iba a haber sido contruida)
+That movie originally was going to have been directed by Francis Ford Coppola.
+They thought that, with the new monument, the city was going to have been visited by more tourists that year.
+At first, the statue was going to have been made in bronze.~stachiu~
+They figured the merchandise was going to have been sent that same day./figura, figurar, calcular/
+They informed us that the stadium was going to have been closed for renovations.
+The famous writer explained that his new novel was going to have been translated into Spanish that year.
+The police thought that the robbers were going to have been caught that same day.
+At first, those products were not going to have been manufactured in China.
+
+__CONDITIONAL PERFECT__(Una casa habría sido construida)
+Your shirts would have been ironed if the maid had come yesterday./críada/~meid~
+If the cook had learnt the recipe, the bread would have been backed properly./horneado/
+Would Mr.Jones have been granted a loan if he had been unemployed?/concedido/
+Would Ms.Baxter have been promoted if she had not been efficent?
+They would have been offered to upgrade their computers if they had paid $500.
+My brother would have been paid to fix this microwave if he had had the tools to do so.
+
+__MODALS + HAVE__(Una casa podría haber sido construida)
+The day had been hot and sunny. The garden should have been watered at twilight./regado//crepúsculo,ocaso/
+Susan feels tired. She must have been working hard lately.
+These shoes should not have been mended. They are too old.
+Smokers should not have been allowed inside the restaurant.
+Should the candles have been lit up in the evening? /iluminado, iluminar/
+The statue should have been shown in the art gallery.~sstachii~
+Johny was fired. I think he should have been given another opportunity.
+Diana's death could have been prevented.
+The infections he had suffered might have been caused by the contaminated catheters./catéteres/
+Could the party have been organized somewhere else?
+
+
+****************************************************
+
+
+Someone must tell him about the accident.				
+	He must be told about the accident.				
 
 They are going to rebuild the Town Hall.
 	The Town Hall is going to be rebuilt.
@@ -160,152 +313,117 @@ Paul has written her a letter this week.
 The owner of the shop had left his dog outside.
 	His dog had been left outside.
 
-Present(Una casa es construida)
-Jane is not supposed to be home at this time.
-The sidewalks in this quarter are not swept up every day./aceras//trimestre, cuarto, barrio/
-Is baseball played in South Africa?
-A wellcome dinner for the guests is being prepared right now.  
 
-Past(Una casa fue construida)
-Our dog was not allowed to travel with us.
-You were not called yesterday.
-Was the Tower London used as a prision in former times? Ex wife, Ex work
-Was he thought have a gift for music? /talento/
+"I can't believe what you are saying" Paul told me.
+	Paul told me he couldn't believe what I was saying.
 
-FUTURE(Una casa será construida)
-The literary contest will be judged by a panel of distinguished writers./concurso//grupo,elegir jurado, comite, tablero, panel de mandos/
-It is estimated that millions of gallons will be yielded annually by the new oil wells./ceder el paso, producir,rendimiento, cosecha//pozo, fuente, manar, brotar/
-The new rocket will not be launched until next year.
-Thouse hospitals will not be inagurated until the end of spring.
-Will a new vaccine be discovered soon? ~vacziin~
-Will his new book be published in two week's time?
-Dr Paker will be offered to deliver a speech on nutrition
-This child will be taught to have better manners.
-If that man wins the elections, the country will be being ruled by a dictator./dirigido/
-Those toys will be being produced in China next year.
+"Would you like a cup of tea?"She said to the girls.
+	She offered the girls a cup of tea.
 
-FUTURE(going to)(Una casa va a ser construida)
-The jewels are going to be hidden in a safe place.~jchiuls~
-The meeting is going to be held tomorrow at 10:00.
-It is thought that the painting is not going to be sold without his authorization.
-Her attorney is sure that the lawsuit is not going to be lost./abogado=lawyer//demanda judicial, pleito/
-Are these bills going to be paid before they are due?/vezcan, sean pagaderas, she was due= se esperaba que/
-Is a war going to be fought between the two neighboring countries?
-All the staff is going to be told to attend the seminar.
-Farmers are going to be asked to grow potatoes./cultivar=grow,till,farm/
-The country is going to be being ruled by a dictator./regla,norma, dirigir/
-Thouse toys are going to be being produced in China next year.
-If that man wins the elections, the country is going to be being ruled by a dictator.
-Thouse toys are going to be being produced in China next year.
+"What time did you arrive in London?"He asked.
+	He asked what time I had arrived in London.
 
-FUTURE IN PAST(Una casa iba a ser construida)
-The soldiers thought they were going to be ambushed that night. /emboscados/~ambeeschs~
-It is believed that a ditch was going to be dug along the road. /zanja/~diitch~~
-The store was not going to be closed before 8:00pm.
-This incident was not going to be easily forgotten.
-Was a new song going to be recorded?
-Were the parcels going to be sent yesterday?/paquetes/~pausols~
-I thought that a test pilot was going to be told to fly the plane.
-At first, the guest were going to be offered to choose their rooms.
-I thought this wall was going to be being painted by someone else, not by me.
-They didn't get into the room because they thought that it was going to be being used by the managers of the company.
+"I 'm sorry to be late, but I missed the bus" She said.
+	She apologised for being late and she said she had missed the bus.
 
-CONDITIONAL
-Jeff would be invited to the party if he knew Cindy.
-If there were a good candidate for this job, the vacancy would be filled.
-The goods would not be shipped if they were defective./transportados/~siipich~ ~difeetcheff~
-In this house had latent defects, it would not be put up for sale./defectos ocultos/
-Would the witnesses be taken depositions if they knew nothing./testigos//declaraciónes,testimonio/
-Would Alice be asked to leave if the hostess did not invite her?/anfitriona/~houschass~
-Bob would be asked to mail the letters if he was ...
-His kids would be taught to drive if they were 18 years old.
+"Thank you for the postcard you sent me", she said to Jane.
+	She thanked Jane for the postcard she had sent her.
 
-MODALS (Una casa podría ser construida)
-Nothing can be done to solve this mystery.
-Questions cannot be asked during the conference.
-It is said that this system must be improved.
-A doctor should be called in case of accident.
-It is thought that the accused should not be sued for damages.(demandado)(demand=>demanda)~aquiiusch~
-Could this old church be refurbished?(reformado|restore/reform)~riforbech~
-Must the floor be kept clean?
-Should these towels be washed?
-The speaker should be given a microphone to deliver his speech./orador//entregar, llevar, pronunciar/
-The janitor must be told to lock the front door./portero, conseje/
+"What were you doing last night at 9:30?" she asked.
+	He asked what had been doing the previous night at 9:30.
 
-PRESENT PERFECT(Una casa ha sido construida)
-The whole city has been destroyed by the earthquake.
-I can't get in. These doors have been locked!
-Those windows have not been closet yet.
-This wooden floor has not been waxed./encerado/~waachss~
-Has uncle John been promoted to president of the company?
-Have the mistakes been made before?
-People have been requested to cancel appointments before Monday./solicitado//cancelar/
-Guess what... Jack has been taught to drive car!
-Stricter and stricter measures have been being taken to reduce crime in the city./cada vez más extrictas/
-My mother has been being treated by the same doctor for years.
+"I'll show you when I finish", he said.
+	He said he would show me when he finished.
 
-PAST PERFECT(Se había construido una casa)
-A strike had been organized before the workers were dismissed.
-Before the Richardsons got home, their house had been burglarized./desvalijada/
-Hotel reservations had been made before Mr.Miller flew to N.Y.
-Had the gas tank been filled before they left?
-Had Bill been told to bring the wine to the party?
-This mechanic had not been paid to fix their limo./limosina/~limou~
-The tourists had been shown the map of the city before they were taken there.
-I learnt that condensed milk had been being produced in America since the mid  1850s.
-"The Real Information Digger", a journel in which my articles had been being publhised, was banned by the government./prohibido/~bann~
+"The film had already started when Peter arrived", she said.
+	She said the film had already started when Peter arrived.
 
-FUTURE PERFECT (Se habrá construido una casa, Habrá sido )
-Your tapestry will have been woven by Friday./tapiceria/tejida/
-Thouse fossils will have been examined by experts before December.
-The crop will not have been ruined by the frost this year./cosecha//helada/
-It is thought that he will not haven been elected president in the coming elections./proximas elecciones/
-When will his research project have been finished?
-By the end of fall, they will have been taught to ski.
-Will this river have been polluted by the year 2020?
-The cake will have been being bake for over two hours by the time you get home./hornear, coción/
+"I was having a shower when the phone rang", she said.
+	She said she had been having a shower when the phone rang.
 
-FUTURE PERFECT, GOING TO (Una casa va  a haber sido construida)
-The project is going to have been completed before the deadline./límite/
-A new computer game is going to have been developed by December.
-By this time tomorrow, many more areas in the city are going to have been affected by the flood.
-By next year, the economy of this country is going to have been improved by the reforms underway./proceso/
-These products are going to have been inspected before their shipment./envío/
-By the time they graduate from the academy, these young officer are going to have been given a complete training.
-The soldiers are going to have been transported to the war zone by helicopters during the night.
-Look, if the ammunition is left in the open, it is going to have been destroyed by the rain./munición//aire libre/ ~am-minezen~
+"You must finish the report today", my boss told me.
+	My boss told me I had to finish the report that day.
 
-FUTURE PERFECT IN PAST(Una casa iba a haber sido contruida)
-That movie originally was going to have been directed by Francis Ford Coppola.
-They thought that, with the new monument, the city was going to have been visited by more tourists that year.
-At first, the statue was going to have been made in bronze.~stachiu~
-They figured the merchandise was going to have been sent that same day./figura, figurar, calcular/
-They informed us that the stadium was going to have been closed for renovations.
-The famous writer explained that his new novel was going to have been translated into Spanish that year.
-The police thought that the robbers were going to have been caught that same day.
-At first, those products were not going to have been manufactured in China.
+"Did the enjoy the party?", She asked.
+	She asked if I had enjoyed the party.
 
-CONDITIONAL PERFECT(Una casa habría sido construida)
-Your shirts would have been ironed if the maid had come yesterday./críada/~meid~
-If the cook had learnt the recipe, the bread would have been backed properly./horneado/
-Would Mr.Jones have been granted a loan if he had been unemployed?/concedido/
-Would Ms.Baxter have been promoted if she had not been efficent?
-They would have been offered to upgrade their computers if they had paid $500.
-My brother would have been paid to fix this microwave if he had had the tools to do so.
+"Alright then, we'll meet after the lesson" she said.
+	She agreed to meet after the lesson.
 
-MODALS + HAVE(Una casa podría haber sido construida)
-The day had been hot and sunny. The garden should have been watered at twilight./regado//crepúsculo,ocaso/
-Susan feels tired. She must have been working hard lately.
-These shoes should not have been mended. They are too old.
-Smokers should not have been allowed inside the restaurant.
-Should the candles have been lit up in the evening? /iluminado, iluminar/
-The statue should have been shown in the art gallery.~sstachii~
-Johny was fired. I think he should have been given another opportunity.
-Diana's death could have been prevented.
-The infections he had suffered might have been caused by the contaminated catheters./catéteres/
-Could the party have been organized somewhere else?
+"No way!.I won't tell them" he said.
+	He refused to tell them.
 
+"Open your books and start reading , children", the teacher said.
+	The teacher told the children to open their books and start reading.
 
+"Would you like to come to my party, John?, she said.
+	She invited John to her party.
+
+"Let's go the park!"she said.
+	She suggested going to the park.
+	She suggested that we went to the park.
+
+"You should be more careful in the future"he said.
+	He advised me to be more carefuly in the future.
+
+"Did you pass the exam?"I said to Joe.
+	I asked Joe if he had passed the exam.
+
+"I'm doing my homework",the boy said.
+	The boy said that he had been doing his homework.
+
+"What were you doing when the lights went off?"She asked me.
+	She asked me what I had been doing when the ligths went off.
+
+"Do you mind closing the window, please? It's getting cold", she said to the man.
+	She asked the man to close the window because it was getting cold.
+
+"Did you enjoy the meal?"She said to me.
+	She asked me if I had enjoyed the meal.
+
+"Would you like another biscuit, John?"he said.
+	He offered another biscuit.
+
+"Remember to check the tyres before leaving",they said to us.
+	They reminded us to check the tyres.
+
+"Sorry. I didn't mean to interrupt you" she said.
+	She apologized for interrupting us.
+
+"You'd better go to the doctor, Paul" she said.
+	She advised Paul to go to the doctor.
+
+"How about renting a canoe?" he said.
+	He suggested renting a canoe.
+	He suggested that we rentend a canoe.
+
+"You must be prepared for the worst", the doctor said.
+	The doctor said that we had to be prepared for the worst.
+
+"Do you understand French?"She asked me.
+	She asked me if I understood French.
+
+"We are meeting John next weekend", she said to me.
+	She said to me we were meeting John the following weekend.
+
+"Can you pass me the bread, please?"She said to me.
+	She aked me to pass her the bread.
+
+"Let's go for a swim!"she said.
+	He suggested going for swim.
+	He suggested that we went for a swin.
+
+"You should tell the truth", They said to us.
+	They advised us to say the truth.
+
+"Would you like to go to Parets?"she said.
+	She invited me to go to Parets.
+
+"Have you finished the homework,Paul?, she said.
+	She asked Paul if he had finished the homework.
+
+"No way! I won't phone Mary" she said.
+	He refused to phone Mary.
 
 
 
