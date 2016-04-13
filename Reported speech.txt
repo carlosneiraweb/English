@@ -56,67 +56,90 @@ __VERBOS REPORTED SPEECH__
 
 Jack:"Mum came to see you today".
 	He said that mum had come to see me that day.
+
 Beth:"John isn't here right now".
 	She told me that John wasn't there them.
+
 Bob:"Please, give this letter to Penny".
 	He asked me to give the letter to Penny.
+
 Tommy"ok,ok. I broke the window".
 	He admitted that he had broken the window.
+
 Ken:"Yeah, of course, I will give you the money".
 	He agree to loan me the money.
+
 Carol:"Oh, not now. I am too busy at this moment".
 	She answered that she was too busy at that moment.
+
 All:"He guys!Don't you want to go to the beach with me?".
-	He invitd us to go to the beach with him.
+	He invited us to go to the beach with him.
+
 Dan:"Oh no.I have this terrible toothache again!".
 	He complained of a toothache.
+
 Sue:"I cant help you with that Math problem if you want".
 	She offered to help me with the Math problem.
+
 Bill:"It's a nice day. We could go to the country and have a picnic".
 	He suggested that we have a picnic.
+
 Angry customer:"I want to see the manager of this company immediately".
 	The man demanded to see the manager of the company.
+
 Joe:"Excuse me,Madam. Could I use your telephoned for a minute.".
 	He requested permission to use the woman's telephone.
+
 Jack:"He Bill. Don't forget to mail this letter today!".
 	Jack reminded Bill to mail a letter that day.
+
 George:"The house is white. It has three bedrooms and a beautiful garden".
 	He described his house.
-Peter:"I must tll you something, Jane..I love you with all my heart".
+
+Peter:"I must tell you something, Jane..I love you with all my heart".
 	He confessed that he loved her.
+
 Betty:"It was your fault that I couldn't arrive on time".
 	The girl blamed the boy for her arriving late.
+
 Mark:"Sir, I think we should have a meeting this afternoon".
 	He proposed having a meeting that afternoon.
+
 Jim:"I won't do this job any longer".
 	He refused to continue working.
+
 Sam:"Congratulations, Jack! Your performance was excellent!".
 	He congratulated Jack on giving a good performance at the theater.
+
 Bill:"Hi, everybody".
 	Bill greeted everybody as he entered the room.
+
 Hou:"This is my mother. Her name is Nancy".
 	He introduced me her mother.
+
 Bill:"Don't drink so much or you'll get drunk!".
 	Bill warned Jack not to drink too much.
+
 Kate:"You take me there!Como on!I really want to go there!.
-	She insisted that sh wanted to go.
+	She insisted that she wanted to go.
+
 Karen: You.. damned fat cow! You ate all my cookies!.
 	She insulted her friend calling her a fat cow.
+
 Karen:"I am very sorry for having insulted you in that way".
 	She apologized to her friend for having insulted her.
+
 Jack:"Thank you so much for your help, Mary".
 	Jack thanked Mary for her help.
+
 Ann:"Como on.It was not my fault. You are accusing the wrong person!".
 	The girl protested against the unfair accusation.
+
 Rober:"If you don't given me the money, I will kill you".
 	The robber threatered to kill the man.
+
 Doctor:"If you don't want to have problems with your health, you should stop smoking".
 	The doctor advised him to stop smoking. 
-	
-
-
-
-
 
 Emily:"Our teacher will go to Leipzig tomorrow"
 	Emily said that their teacher would go to Leipzig the next day.
@@ -223,6 +246,116 @@ Mrs.Brown:"It is cold and it is raining.I think you shouldn't go out tonight".
 Pete:"Don't feel so bad.It is not so terrible to fail an exam. You'll pass it next time."
 	Bill's companion tried to console him for having failed the exam.
 
+"I can't believe what you are saying" Paul told me.
+	Paul told me he couldn't believe what I was saying.
+
+"Would you like a cup of tea?"She said to the girls.
+	She offered the girls a cup of tea.
+
+"What time did you arrive in London?"He asked.
+	He asked what time I had arrived in London.
+
+"I 'm sorry to be late, but I missed the bus" She said.
+	She apologised for being late and she said she had missed the bus.
+
+"Thank you for the postcard you sent me", she said to Jane.
+	She thanked Jane for the postcard she had sent her.
+
+"What were you doing last night at 9:30?" she asked.
+	He asked what had been doing the previous night at 9:30.
+
+"I'll show you when I finish", he said.
+	He said he would show me when he finished.
+
+"The film had already started when Peter arrived", she said.
+	She said the film had already started when Peter arrived.
+
+"I was having a shower when the phone rang", she said.
+	She said she had been having a shower when the phone rang.
+
+"You must finish the report today", my boss told me.
+	My boss told me I had to finish the report that day.
+
+"Did the enjoy the party?", She asked.
+	She asked if I had enjoyed the party.
+
+"Alright then, we'll meet after the lesson" she said.
+	She agreed to meet after the lesson.
+
+"No way!.I won't tell them" he said.
+	He refused to tell them.
+
+"Open your books and start reading , children", the teacher said.
+	The teacher told the children to open their books and start reading.
+
+"Would you like to come to my party, John?, she said.
+	She invited John to her party.
+
+"Let's go the park!"she said.
+	She suggested going to the park.
+	She suggested that we went to the park.
+
+"You should be more careful in the future"he said.
+	He advised me to be more carefuly in the future.
+
+"Did you pass the exam?"I said to Joe.
+	I asked Joe if he had passed the exam.
+
+"I'm doing my homework",the boy said.
+	The boy said that he had been doing his homework.
+
+"What were you doing when the lights went off?"She asked me.
+	She asked me what I had been doing when the ligths went off.
+
+"Do you mind closing the window, please? It's getting cold", she said to the man.
+	She asked the man to close the window because it was getting cold.
+
+"Did you enjoy the meal?"She said to me.
+	She asked me if I had enjoyed the meal.
+
+"Would you like another biscuit, John?"he said.
+	He offered another biscuit.
+
+"Remember to check the tyres before leaving",they said to us.
+	They reminded us to check the tyres.
+
+"Sorry. I didn't mean to interrupt you" she said.
+	She apologized for interrupting us.
+
+"You'd better go to the doctor, Paul" she said.
+	She advised Paul to go to the doctor.
+
+"How about renting a canoe?" he said.
+	He suggested renting a canoe.
+	He suggested that we rentend a canoe.
+
+"You must be prepared for the worst", the doctor said.
+	The doctor said that we had to be prepared for the worst.
+
+"Do you understand French?"She asked me.
+	She asked me if I understood French.
+
+"We are meeting John next weekend", she said to me.
+	She said to me we were meeting John the following weekend.
+
+"Can you pass me the bread, please?"She said to me.
+	She aked me to pass her the bread.
+
+"Let's go for a swim!"she said.
+	He suggested going for swim.
+	He suggested that we went for a swin.
+
+"You should tell the truth", They said to us.
+	They advised us to say the truth.
+
+"Would you like to go to Parets?"she said.
+	She invited me to go to Parets.
+
+"Have you finished the homework,Paul?, she said.
+	She asked Paul if he had finished the homework.
+
+"No way! I won't phone Mary" she said.
+	He refused to phone Mary.
 
 
 

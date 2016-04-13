@@ -21,7 +21,7 @@ The new rocket will not be launched until next year.
 Thouse hospitals will not be inagurated until the end of spring.
 Will a new vaccine be discovered soon? ~vacziin~
 Will his new book be published in two week's time?
-Dr Paker will be offered to deliver a speech on nutrition
+Dr Paker will be offered to deliver a speech on nutrition.
 This child will be taught to have better manners.
 If that man wins the elections, the country will be being ruled by a dictator./dirigido/
 Those toys will be being produced in China next year.
@@ -50,14 +50,14 @@ Were the parcels going to be sent yesterday?/paquetes/~pausols~
 I thought that a test pilot was going to be told to fly the plane.
 At first, the guest were going to be offered to choose their rooms.
 I thought this wall was going to be being painted by someone else, not by me.
-They didn't get into the room because they thought that it was going to be being used by the managers of the company.
+They didn't get into the room because they thought that it was going to be being used by the managers 		of the company.
 
 __CONDITIONAL__
 Jeff would be invited to the party if he knew Cindy.
 If there were a good candidate for this job, the vacancy would be filled.~veiconcy~
-The goods would not be shipped if they were defective./transportados/~siipich~ ~difeetcheff~
-In this house had latent defects, it would not be put up for sale./defectos ocultos/
-Would the witnesses be taken depositions if they knew nothing./testigos//declaraciónes,testimonio/
+The goods would not be shipped if they were defective./transportar, enviar/~siipch~ ~difeetcheff~
+If in this house had latent defects, it would not be put up for sale./defectos ocultos/
+Would the witnesses be taken depositions if they knew nothing 	about the case?./testigos//declaraciónes,testimonio/
 Would Alice be asked to leave if the hostess did not invite her?/anfitriona/~houschass~
 Bob would be asked to mail the letters if he was ...
 His kids would be taught to drive if they were 18 years old.
@@ -120,7 +120,7 @@ Look, if the ammunition is left in the open, it is going to have been destroyed 
 __FUTURE PERFECT IN PAST__(Una casa iba a haber sido contruida)
 That movie originally was going to have been directed by Francis Ford Coppola.
 They thought that, with the new monument, the city was going to have been visited by more tourists that year.
-At first, the statue was going to have been made in bronze.~stachiu~
+At first, the statue was going to have been made in bronze.~stachiu~/~bronz~
 They figured the merchandise was going to have been sent that same day./figura, figurar, calcular/
 They informed us that the stadium was going to have been closed for renovations.
 The famous writer explained that his new novel was going to have been translated into Spanish that year.
@@ -314,116 +314,6 @@ The owner of the shop had left his dog outside.
 	His dog had been left outside.
 
 
-"I can't believe what you are saying" Paul told me.
-	Paul told me he couldn't believe what I was saying.
-
-"Would you like a cup of tea?"She said to the girls.
-	She offered the girls a cup of tea.
-
-"What time did you arrive in London?"He asked.
-	He asked what time I had arrived in London.
-
-"I 'm sorry to be late, but I missed the bus" She said.
-	She apologised for being late and she said she had missed the bus.
-
-"Thank you for the postcard you sent me", she said to Jane.
-	She thanked Jane for the postcard she had sent her.
-
-"What were you doing last night at 9:30?" she asked.
-	He asked what had been doing the previous night at 9:30.
-
-"I'll show you when I finish", he said.
-	He said he would show me when he finished.
-
-"The film had already started when Peter arrived", she said.
-	She said the film had already started when Peter arrived.
-
-"I was having a shower when the phone rang", she said.
-	She said she had been having a shower when the phone rang.
-
-"You must finish the report today", my boss told me.
-	My boss told me I had to finish the report that day.
-
-"Did the enjoy the party?", She asked.
-	She asked if I had enjoyed the party.
-
-"Alright then, we'll meet after the lesson" she said.
-	She agreed to meet after the lesson.
-
-"No way!.I won't tell them" he said.
-	He refused to tell them.
-
-"Open your books and start reading , children", the teacher said.
-	The teacher told the children to open their books and start reading.
-
-"Would you like to come to my party, John?, she said.
-	She invited John to her party.
-
-"Let's go the park!"she said.
-	She suggested going to the park.
-	She suggested that we went to the park.
-
-"You should be more careful in the future"he said.
-	He advised me to be more carefuly in the future.
-
-"Did you pass the exam?"I said to Joe.
-	I asked Joe if he had passed the exam.
-
-"I'm doing my homework",the boy said.
-	The boy said that he had been doing his homework.
-
-"What were you doing when the lights went off?"She asked me.
-	She asked me what I had been doing when the ligths went off.
-
-"Do you mind closing the window, please? It's getting cold", she said to the man.
-	She asked the man to close the window because it was getting cold.
-
-"Did you enjoy the meal?"She said to me.
-	She asked me if I had enjoyed the meal.
-
-"Would you like another biscuit, John?"he said.
-	He offered another biscuit.
-
-"Remember to check the tyres before leaving",they said to us.
-	They reminded us to check the tyres.
-
-"Sorry. I didn't mean to interrupt you" she said.
-	She apologized for interrupting us.
-
-"You'd better go to the doctor, Paul" she said.
-	She advised Paul to go to the doctor.
-
-"How about renting a canoe?" he said.
-	He suggested renting a canoe.
-	He suggested that we rentend a canoe.
-
-"You must be prepared for the worst", the doctor said.
-	The doctor said that we had to be prepared for the worst.
-
-"Do you understand French?"She asked me.
-	She asked me if I understood French.
-
-"We are meeting John next weekend", she said to me.
-	She said to me we were meeting John the following weekend.
-
-"Can you pass me the bread, please?"She said to me.
-	She aked me to pass her the bread.
-
-"Let's go for a swim!"she said.
-	He suggested going for swim.
-	He suggested that we went for a swin.
-
-"You should tell the truth", They said to us.
-	They advised us to say the truth.
-
-"Would you like to go to Parets?"she said.
-	She invited me to go to Parets.
-
-"Have you finished the homework,Paul?, she said.
-	She asked Paul if he had finished the homework.
-
-"No way! I won't phone Mary" she said.
-	He refused to phone Mary.
 
 
 
