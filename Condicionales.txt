@@ -1,0 +1,156 @@
+__MIXED I,II,III__
+
+I didn't go to Helen's party because she didn't invite me.
+	If Helen had invited me, I would have gone to her party.
+
+We'll go to the beach unless it rains.
+	We'll go to the beach if it doesn't rain.
+
+Ann can't buy a new car because she hasn't got enough money.
+	If Ann had enough money, she could buy a new car.
+
+You can get access to the Intranet only by having a password.
+	You can get access to the Intranet providing you have a password.
+	You can get access to the Intranet as long as you have a password.
+
+She feels lonely since she hasn't got any friend.
+	If she had some friend, she wouldn't feel lonely.
+
+Carlos Sainz didn't win the Monte Carlo Rally because his car broke down.
+	Carlos Sainz would have won the Monte Carlo Rally if his car hadn't broke down.
+
+Jim missed the plane becaused he arrived late at the airport.
+	Jim wouldn't have missed the plane if he hadn't arrived late at the airport.
+	Jim wouldn't have missed the plane if he had arrived earlier at the airport.
+
+I don't have a modem, so I can't e-mail you.
+	If I had a modem, I could e-mail you.
+
+I didn't send them a postcard because I didn't know their new address.
+	If I had known their new address, I would have sent them a postcard.
+
+She isn't passing her exams because she isn't studying hard enough.
+	She had studied harder, she would pass her exams.
+	She would pass her exams if she had studied hard enough.
+
+I'd like to buy a bigger flat, but I haven't got enough money.
+	I would buy I bigger flat if I had more money.
+	I would buy a bigger flat if I had enough money.
+
+I didn't get to the meeting on time because my car broke down.
+	I would have got to the meeting on time if my car hadn't broke down.
+
+I never travel by plane because I get earache.
+	I would travel by plane if I didn't get earache.
+
+I won't go to the party if you don't go with me.
+	I won't go to the party unless you go with me.
+
+If I had been told about the situation, I would have dismessed them.
+	Had I been told about the situation, I would have dismissed them.
+
+The restaurant was full so we couldn't get a table.
+	If the restaurant hadn't been full, we could have got a table.
+
+You can attend the meeting as long as you are a club member.
+	You are attend the meeting provided you are a club member.
+	You can attend the meeting only if you are a club member.
+
+I'm too busy to go to the pub.
+	If I weren't so busy, I would go to the pub.
+
+Ice melts down when you heat it.
+	Ice melts down if you heat it.
+
+We didn't see The Two Towers because the cinema was closed.
+	We would have seen The Two Towers if the cinema had been open.
+	Had the cinema been open, we would have seen The Two Towers.
+
+You won't get a promotion if your work doesn't improve.
+	You won't get a promotion unless your work improves.
+
+I never eat octupus because I get sick.
+	If I didn't get sick, I would eat octupus.
+
+We didn't pick you up at the station because you didn't phone us.
+	If you had phoned, we would have picked you up at the station.
+
+I'll buy a new computer provided I get a rise in salary.
+	I'll buy a  new computer only if I get a rise in salary.
+	I'll buy a new computer as long as I get a rise in salary.
+
+She wanted to buy that picture, but she didn't have enough money.
+	She would have bought that picture if she had  had enough money.
+
+Whenewer I make a promise, I keep it.
+	If I make a promise I keep it.
+
+We haven't got any matches, so we can't light a fire.
+	If we had some matches, we could light a fire.
+
+I didn't renew my subscription because I lost interest in the magazines articles.
+	I would have renewed my subscription if I hadn't lost interest in the magazines articles.
+	Hand't I lost interest in the magazines articles, I would have renewed my subscription.
+
+He was too slow to win the race.
+	If he hadn't been so slow, he would have won the race.
+	Hadn't he been so slow, he would have won the race.
+
+I won't go to Rio unless I find a cheap flight.
+	I won't go Rio if I don't  find a cheap flight.
+	I will go to Rio provided that I find a cheap flight.
+
+I never sunbathe because I get sunburt easily.
+	I would sunbathe if I didn't get sunburt easily.
+
+She will understand you provided that you don't speak too fast.
+	She will understand you if you don't speak too fast.
+
+He won't come for a drink because he's got work to do.
+	If he didn't have work to do, he would come for a drink.
+
+She's too young to get a driving licence.
+	She would get a driving licence if she wasn't so young.
+
+They lost the match because of the heavy rain.
+	If it hadn't rain so heavily, they would have won the match.
+
+Whenever Peter and I meet, we talk about the good old times.
+	If Peter and I meet, we talk about the good old times.
+
+Should you see Paul, tell him about the meeting.
+	If you see Paul, tell him about the meeting.
+
+
+
+__CONDICIONALES MIXTAS__
+
+_Presente+pasado_
+If I were you, I would have bought the red dress.
+If the teacher were here, she would have turned on the heater.
+If the students had more time, they would have finished their work yesterday.
+
+_Presente+futuro_
+If I were you, I would call Tom and apologize.
+If Bob had more time, he would attend the cooking class next week.
+If Fred were here, he would go with us to Colorado on Thursday.
+
+_Futuro+pasado_
+If they weren't travelling to France on Tuesday, they would have planed to attend your birthday party.
+If I weren't quitting my job in two weeks, I would have purchased you a gif for Christmas.
+If Don's sister weren't going to the theater, they would have agreed to baby sit.
+
+_Futuro+presente_
+If I were getting married tomorrow, I would be relaxing right now.
+If Jenny and Eric were going to be here for the holidays, they would be makig plans.
+If Dan were travelling with us to Boston in Marh, he would be saving money.
+
+_Pasado+presente_
+If I had studied in school, I would have a diploma now.
+If Nick had turned in his application, he would be working here now.
+If you had recorded the show last night, we could watch it.
+
+_Pasado+futuro_
+If Rose had not called him, they wouldn't be going to the party together tomorrow.
+If Nathan and Lisa had finished their chrores, they would receive their allowance tonight.
+If the television had not broken, we would watch the game this weekend.

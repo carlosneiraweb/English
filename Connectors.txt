@@ -39,7 +39,7 @@ The baker had no sooner turned off the oven than the last customers arrived.
 I had no sooner gotten into the bathtub than the telephone rang.
 
 
-__DISYUNTIVOS__ (Indican selección,separan o diferencian dos ideas(otherwise, or else, whether/or))
+__DISYUNTIVOS__ (Indican selección,separan o diferencian dos ideas(otherwise, or else, whether/or, whereas))
 
 Either you shut your mouth and listen or you leave the class.
 That clerk is either incompetent or too lazy to  be efficent.(clerk => oficinista)
@@ -51,7 +51,7 @@ Mary wondered whether to travel or to stay and save the money.
 We have to hurry up, or else we'll miss our bus.(o sino)
 You have to pay the rent of the house, or else you will be evicted.(desalojado)
 Leave right now, otherwise you'll be caught.
-He loves going to the theatre while his wife prefers to stay at home.
+He loves going to the theatre whereas his wife prefers to stay at home.=>(como contraste)
 
 __CONDICIONALES__ (Indican condición para la realización de algo)
 
@@ -60,7 +60,7 @@ Don't go there unless they call you.
 We'll go fishing this afternoon, provided it doesn't rain.
 You can borrow my car providing you return it today.
 You can stay here as long as you work hard.
-Nobody will know this secret as long as you keep mum.(callado)
+Nobody will know this secret as long as you keep quiet.(callado)
 Call this phone number in case you get lost.
 We will take our umbrellas in case it rains.
 
@@ -226,7 +226,7 @@ Although she wasn't hungry, she ate a few biscuits.(of)
 	She ate a few biscuits in spite of not being hungry.
 
 She missed the bus so she had to take a taxi.
-	She hat to take a taxi because she missed the bus.
+	She had to take a taxi because she missed the bus.
 	As she missed the bus, she had to take a taxi.
 	Since she missed the bus, she had to take a taxi.
 
