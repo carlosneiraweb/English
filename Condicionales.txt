@@ -34,7 +34,7 @@ She isn't passing her exams because she isn't studying hard enough.
 	She would pass her exams if she had studied hard enough.
 
 I'd like to buy a bigger flat, but I haven't got enough money.
-	I would buy I bigger flat if I had more money.
+	I would buy a bigger flat if I had more money.
 	I would buy a bigger flat if I had enough money.
 
 I didn't get to the meeting on time because my car broke down.
@@ -113,7 +113,7 @@ She's too young to get a driving licence.
 	She would get a driving licence if she wasn't so young.
 
 They lost the match because of the heavy rain.
-	If it hadn't rain so heavily, they would have won the match.
+	If it hadn't rained so heavily, they would have won the match.
 
 Whenever Peter and I meet, we talk about the good old times.
 	If Peter and I meet, we talk about the good old times.
@@ -125,32 +125,32 @@ Should you see Paul, tell him about the meeting.
 
 __CONDICIONALES MIXTAS__
 
-_Presente+pasado_
+_Presente+pasado_(pasado simple => condicional perfecto)
 If I were you, I would have bought the red dress.
 If the teacher were here, she would have turned on the heater.
 If the students had more time, they would have finished their work yesterday.
 
-_Presente+futuro_
+_Presente+futuro_(pasado simple => condicional)
 If I were you, I would call Tom and apologize.
 If Bob had more time, he would attend the cooking class next week.
 If Fred were here, he would go with us to Colorado on Thursday.
 
-_Futuro+pasado_
+_Futuro+pasado_(pasado simple continuo => condicional perfecto)
 If they weren't travelling to France on Tuesday, they would have planed to attend your birthday party.
 If I weren't quitting my job in two weeks, I would have purchased you a gif for Christmas.
 If Don's sister weren't going to the theater, they would have agreed to baby sit.
 
-_Futuro+presente_
+_Futuro+presente_(pasado simple continuo => condicional)
 If I were getting married tomorrow, I would be relaxing right now.
-If Jenny and Eric were going to be here for the holidays, they would be makig plans.
+If Jenny and Eric were going to be here for the holidays, they would be making plans.
 If Dan were travelling with us to Boston in Marh, he would be saving money.
 
-_Pasado+presente_
+_Pasado+presente_-(pasado perfecto => condicional)
 If I had studied in school, I would have a diploma now.
 If Nick had turned in his application, he would be working here now.
 If you had recorded the show last night, we could watch it.
 
-_Pasado+futuro_
+_Pasado+futuro_(pasado perfecto => condicional)
 If Rose had not called him, they wouldn't be going to the party together tomorrow.
-If Nathan and Lisa had finished their chrores, they would receive their allowance tonight.
+If Nathan and Lisa had finished their chores, they would receive their allowance tonight.
 If the television had not broken, we would watch the game this weekend.
