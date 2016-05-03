@@ -10,17 +10,17 @@ Kelly:"I dont like fish"
 Joe:"I am doing my job"
 	He said that he was doing his job.
 "Pan and Tim:"We are living in New York".
-	The said that they were living in New York.
+	They said that they were living in New York.
 
 __Past => Past Perfect__
 Dan: "We saw a good film on TV"
-	He said that they had been a good film on TV.
+	He said that they had seen a good film on TV.
 Lou and Sarah:"We didn't read 'Hamlet'".
 	They said that they hadn't read 'Hamlet'".
 Chuck:"I was dacing with Mary".
 	He said that he had been dancing with Mary.
 Rick and Amy:"We weren't looking for Tom".
-	The said that they hadn't been looking for Tom.
+	They said that they hadn't been looking for Tom.
 
 __Present Perfect => Past Perfect__
 Kim:"I have done this before".
@@ -63,11 +63,12 @@ Beth:"John isn't here right now".
 Bob:"Please, give this letter to Penny".
 	He asked me to give the letter to Penny.
 
-Tommy"ok,ok. I broke the window".
+Tommy: "ok,ok. I broke the window".
 	He admitted that he had broken the window.
+	
 
 Ken:"Yeah, of course, I will give you the money".
-	He agree to loan me the money.
+	He agreed to loan me the money.
 
 Carol:"Oh, not now. I am too busy at this moment".
 	She answered that she was too busy at that moment.
@@ -77,6 +78,8 @@ All:"He guys!Don't you want to go to the beach with me?".
 
 Dan:"Oh no.I have this terrible toothache again!".
 	He complained of a toothache.
+	complain to + somebody
+	complain of + something
 
 Sue:"I cant help you with that Math problem if you want".
 	She offered to help me with the Math problem.
@@ -87,7 +90,7 @@ Bill:"It's a nice day. We could go to the country and have a picnic".
 Angry customer:"I want to see the manager of this company immediately".
 	The man demanded to see the manager of the company.
 
-Joe:"Excuse me,Madam. Could I use your telephoned for a minute.".
+Joe:"Excuse me,Madam. Could I use your telephoned for a minute".(pedir formal)
 	He requested permission to use the woman's telephone.
 
 Jack:"He Bill. Don't forget to mail this letter today!".
@@ -97,19 +100,33 @@ George:"The house is white. It has three bedrooms and a beautiful garden".
 	He described his house.
 
 Peter:"I must tell you something, Jane..I love you with all my heart".
-	He confessed that he loved her.
+	He confessed  he loved her.
 
 Betty:"It was your fault that I couldn't arrive on time".
 	The girl blamed the boy for her arriving late.
 
 Mark:"Sir, I think we should have a meeting this afternoon".
+		propose + ing = Otra persona sugiere
 	He proposed having a meeting that afternoon.
+	What do they propose doing with such a person?
+		propose + to = Yo propongo
+	I propose to enter
+	What steps do you propose to take?
 
 Jim:"I won't do this job any longer".
 	He refused to continue working.
 
+		+ no longer (suj +no longer+verb or later modal verb or auxiliar or later be)
+	She no longer wears the dull colours of her former life.
+	She no longer works here.
+		- anylonger or any longer
+	She doesn't work here any longer.
+	Are you still living in London?
+		Responder a preguntas con ya no
+	Not any longer
+
 Sam:"Congratulations, Jack! Your performance was excellent!".
-	He congratulated Jack on giving a good performance at the theater.
+	He congratulated Jack ON giving a good performance at the theater.
 
 Bill:"Hi, everybody".
 	Bill greeted everybody as he entered the room.
@@ -120,8 +137,11 @@ Hou:"This is my mother. Her name is Nancy".
 Bill:"Don't drink so much or you'll get drunk!".
 	Bill warned Jack not to drink too much.
 
-Kate:"You take me there!Como on!I really want to go there!.
+Kate:"You take me there! Como on! I really want to go there!.
 	She insisted that she wanted to go.
+	I insist!/If you insist/I didn't really want to go but he insisted.
+	He insisted on his innocence.
+	They insist on playing their music late.
 
 Karen: You.. damned fat cow! You ate all my cookies!.
 	She insulted her friend calling her a fat cow.
@@ -136,8 +156,15 @@ Ann:"Como on.It was not my fault. You are accusing the wrong person!".
 	The girl protested against the unfair accusation.
 
 Rober:"If you don't given me the money, I will kill you".
+		threat(to do something)
 	The robber threatered to kill the man.
-
+	to make threats against somebody.
+	She is prepared to carry out her threat to resign.
+	He received death threats.
+		threat (to something)
+	He is unlikely to be a threat to the spanish player.
+	Drugs pose a major threat to our society.
+	
 Doctor:"If you don't want to have problems with your health, you should stop smoking".
 	The doctor advised him to stop smoking. 
 
@@ -172,7 +199,7 @@ Jason and Victoria:"We will do our best in the exams tomorrow".
 	Jason and Victoria told me that would do their best in the examns the next day.
 
 Andrew:"We didn't eat fish two days ago".
-	Andrew remarked that they hadn't eaten fish two days before
+	Andrew remarked that they hadn't eaten fish two days before.(hizo una observación, comentario)
 
 Alice:"I spent all my pocket money on Monday".
 	Alice complained that she had spent all her pocket money on Monday.
@@ -189,14 +216,14 @@ David:"John had already gone at six".
 "Do you like this shirt?", she asked.
 	He asked if I liked the shirt.
 
-Tina:"Could you tell me where tha main library is?
+Tina:"Could you tell me where the main library is?
 	She inquired how to get to the library.
 
 Mr.Jones:"I really think that the work you are doing is excellent".
 	Bill's boss praised him for the work he was doing.(elogio)
 
 Bill:"I don't know what you think, but I didn't break that window."
-	Billy denied having having broken the window.
+	Billy denied that he had broken the window.
 
 Carl:"Don't worry. I will finish my work on time."
 	He assured me that he would finish his work on time.(aseguro)
@@ -214,7 +241,7 @@ Samuel:"I don't think it is a good idea to fly now. The weather conditions are d
 	The man dissuaded him from flying under those weather conditions.
 
 Tim:"I'm terrible afraid of storms".
-	He confided his fear of storms to his companion.
+	He confessed his fear of storms to his companion.
 
 Sales girl:"I think you should take these shoes.They are very nice and have a good quality".
 	The sales girl recommended that I buy those shoes.
