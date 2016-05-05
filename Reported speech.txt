@@ -1,6 +1,9 @@
 http://www.englisch-hilfen.de/en/exercises/reported_speech/statements2.htm
 http://www.edufind.com/english-grammar/changing-time-and-place-references/
+Verbos que seguidos de CI  llevan to y no cambian significado
+ADVISE, RECOMMENDED, ALLOW, PERMIT, FORBID, REQUIRE
 
+Se ponen ejemplos no relacionados con el reported speech propiamente.
 
 __Present => Past__
 John:"I work in Argentina"
@@ -65,8 +68,19 @@ Bob:"Please, give this letter to Penny".
 
 Tommy: "ok,ok. I broke the window".
 	He admitted that he had broken the window.
-	
+		admit to somebody
+	Paul admitted to me that sometimes feels jelous of my...
+		admit somethig
+	He admitted all his mistakes.
+	She refuses to admit the truth.
+		admit doing something (to)
+	Dane admitted feeling hurt by what I had said.
+	Phillips openly admits to having an alcohol problem.
+	No organization has admitted reponsibility for the bombing.
+	Don't be afraid to admit to your mistakes.
+	She admit to being strict with her children.
 
+	
 Ken:"Yeah, of course, I will give you the money".
 	He agreed to loan me the money.
 
@@ -78,17 +92,21 @@ All:"He guys!Don't you want to go to the beach with me?".
 
 Dan:"Oh no.I have this terrible toothache again!".
 	He complained of a toothache.
-	complain to + somebody
-	complain of + something
+		complain to + somebody
+		complain of + something
 
 Sue:"I cant help you with that Math problem if you want".
 	She offered to help me with the Math problem.
 
 Bill:"It's a nice day. We could go to the country and have a picnic".
 	He suggested that we have a picnic.
+		suggest something
+	May I suggest a white wine?
+		suggest doing something
+	I suggested going in my car.
 
 Angry customer:"I want to see the manager of this company immediately".
-	The man demanded to see the manager of the company.
+	The man demanded to see the manager of the company.(exigir)
 
 Joe:"Excuse me,Madam. Could I use your telephoned for a minute".(pedir formal)
 	He requested permission to use the woman's telephone.
@@ -100,7 +118,7 @@ George:"The house is white. It has three bedrooms and a beautiful garden".
 	He described his house.
 
 Peter:"I must tell you something, Jane..I love you with all my heart".
-	He confessed  he loved her.
+	He confessed that he loved her.
 
 Betty:"It was your fault that I couldn't arrive on time".
 	The girl blamed the boy for her arriving late.
@@ -126,10 +144,10 @@ Jim:"I won't do this job any longer".
 	Not any longer
 
 Sam:"Congratulations, Jack! Your performance was excellent!".
-	He congratulated Jack ON giving a good performance at the theater.
+	He congratulated Jack ON giving a good performance at the theater.(felicito)
 
 Bill:"Hi, everybody".
-	Bill greeted everybody as he entered the room.
+	Bill greeted everybody as he entered the room.(saludo)
 
 Hou:"This is my mother. Her name is Nancy".
 	He introduced me her mother.
@@ -154,11 +172,12 @@ Jack:"Thank you so much for your help, Mary".
 
 Ann:"Como on.It was not my fault. You are accusing the wrong person!".
 	The girl protested against the unfair accusation.
+	She accepted the charge without protest.
 
 Rober:"If you don't given me the money, I will kill you".
 		threat(to do something)
 	The robber threatered to kill the man.
-	to make threats against somebody.
+		to make threats against somebody.
 	She is prepared to carry out her threat to resign.
 	He received death threats.
 		threat (to something)
@@ -166,7 +185,12 @@ Rober:"If you don't given me the money, I will kill you".
 	Drugs pose a major threat to our society.
 	
 Doctor:"If you don't want to have problems with your health, you should stop smoking".
-	The doctor advised him to stop smoking. 
+	The doctor advised him to stop smoking.
+	I'd advise you not to tell him.
+	Police are advising people to stay at home.
+	I'd advise buying your tickets well in advance if you want to travel in Auguest.
+	They advise that a passport should be carried with you at all times.
+	It is strongly advised that you take out insurance. 
 
 Emily:"Our teacher will go to Leipzig tomorrow"
 	Emily said that their teacher would go to Leipzig the next day.
@@ -193,7 +217,7 @@ Patricia:"My mother will celebrate her birthday next weekend"
 	Patricia said that her mother would celebrate her birthday the following weekend.
 
 Michael:"I am going to read a book this week".
-	Michael said to me that he will be going to read a book that week.
+	Michael said to me that he was going to read a book that week.
 
 Jason and Victoria:"We will do our best in the exams tomorrow".
 	Jason and Victoria told me that would do their best in the examns the next day.
@@ -218,6 +242,8 @@ David:"John had already gone at six".
 
 Tina:"Could you tell me where the main library is?
 	She inquired how to get to the library.
+	She enquired as to your whereabouts.(ella pregunto por su paradero)
+	Might I enquire why you have not mentioned this until now?
 
 Mr.Jones:"I really think that the work you are doing is excellent".
 	Bill's boss praised him for the work he was doing.(elogio)
@@ -227,6 +253,7 @@ Bill:"I don't know what you think, but I didn't break that window."
 
 Carl:"Don't worry. I will finish my work on time."
 	He assured me that he would finish his work on time.(aseguro)
+	We were assured that everything possible was being done. 
 
 Jack:"Come on.You'll have a great time at the party.Let's go".
 	Jack persuaded Bill to go the party.
@@ -245,9 +272,19 @@ Tim:"I'm terrible afraid of storms".
 
 Sales girl:"I think you should take these shoes.They are very nice and have a good quality".
 	The sales girl recommended that I buy those shoes.
+	The report recommended a 10% pay increase.(aumento salarial)
+	It is dangerous to exceed the recommended dose.(dosis)
+	A recommended price of $50.
+	He recomended reading the book before seeing the movie.
+
+		recommended somebody/something (to somebody)
+	We recommended you to book your flight early.
+	I recommended the book to all my students
+		recommended somebody (for/as something)
+	She was recommended for the post by a colleague.
 
 Mrs.Miller:"Look what you've done!You broke the vase! You must be more careful with the things in the 	   	house!".
-	Jack's mother scolded him for breaking the vase.
+	Jack's mother scolded him for breaking the vase.(regañar)
 
 Sergeant:"Fire".
 	The sergeant ordered the soldiers to fire at the enemy.
@@ -255,20 +292,20 @@ Sergeant:"Fire".
 Paul:"I saw you when you stolen my money!".
 	The man accused his colleague of stealing his money.
 
-Dave:"I couldn't ncall you because there was no phone nearby".
+Dave:"I couldn't call you because there was no phone nearby".
 	He explained why he couldn't call me.
 
 Bill:"By the way, I am a bit tired after the trip."(por cierto, a propósito) 
 	Bill mentioned that he was tired after the trip.
 
 Philo:"Jame, how elegant you are tonight!".
-	The man complimented Jane on being so elegant that night.(felicito)
+	The man congratulate Jane on being so elegant that night.(felicito)
 
 Mr Campbell:"Don't quit now!.You are about to win the game!(No abandones/rendir /give up/surrender)
 	Bills father encouraged him to continue with the game.(alento, incito, animo)
 
 Mrs.Brown:"It is cold and it is raining.I think you shouldn't go out tonight".
-	Mary's mother discouraged her from going out that night.(desalentó)
+	Mary's mother discouraged her from going out that night.(desalentó, disuadio)
 
 Pete:"Don't feel so bad.It is not so terrible to fail an exam. You'll pass it next time."
 	Bill's companion tried to console him for having failed the exam.
