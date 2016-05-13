@@ -71,15 +71,17 @@ Tommy: "ok,ok. I broke the window".
 		admit to somebody
 	Paul admitted to me that sometimes feels jelous of my...
 		admit somethig
+	He admitted to all his mistakes.
 	He admitted all his mistakes.
 	She refuses to admit the truth.
-		admit doing something (to)
+	Don't be afraid to admit to your mistakes.
 	Dane admitted feeling hurt by what I had said.
 	Phillips openly admits to having an alcohol problem.
-	No organization has admitted reponsibility for the bombing.
-	Don't be afraid to admit to your mistakes.
 	She admit to being strict with her children.
-
+	She admit being strict with her children.
+		admit doing something (to)
+	No organization has admitted reponsibility for the bombing.
+	was admitted to be difficult(pasiva)
 	
 Ken:"Yeah, of course, I will give you the money".
 	He agreed to loan me the money.
@@ -183,7 +185,8 @@ Rober:"If you don't given me the money, I will kill you".
 		threat (to something)
 	He is unlikely to be a threat to the spanish player.
 	Drugs pose a major threat to our society.
-	
+	The program is under threat of closure due to lack of funding.(cierre debiado a falta de fondos)
+
 Doctor:"If you don't want to have problems with your health, you should stop smoking".
 	The doctor advised him to stop smoking.
 	I'd advise you not to tell him.
@@ -360,7 +363,7 @@ Pete:"Don't feel so bad.It is not so terrible to fail an exam. You'll pass it ne
 	She suggested that we went to the park.
 
 "You should be more careful in the future"he said.
-	He advised me to be more carefuly in the future.
+	He advised me to be more careful in the future.
 
 "Did you pass the exam?"I said to Joe.
 	I asked Joe if he had passed the exam.
@@ -388,6 +391,7 @@ Pete:"Don't feel so bad.It is not so terrible to fail an exam. You'll pass it ne
 
 "You'd better go to the doctor, Paul" she said.
 	She advised Paul to go to the doctor.
+	Advise doing something
 
 "How about renting a canoe?" he said.
 	He suggested renting a canoe.
@@ -403,11 +407,11 @@ Pete:"Don't feel so bad.It is not so terrible to fail an exam. You'll pass it ne
 	She said to me we were meeting John the following weekend.
 
 "Can you pass me the bread, please?"She said to me.
-	She aked me to pass her the bread.
+	She asked me to pass her the bread.
 
 "Let's go for a swim!"she said.
 	He suggested going for swim.
-	He suggested that we went for a swin.
+	He suggested that we went for a swim.
 
 "You should tell the truth", They said to us.
 	They advised us to say the truth.

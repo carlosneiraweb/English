@@ -188,7 +188,7 @@ __Beneath/underneath__(biniiz)bajo, debajo de
 	There is a basement beneath the house.
 	Jimmy hid all his toys beneath his bed.
 	I was sitting beneath my beach umbrella.
-	There is rust underneath the paint.
+	There is rust underneath the paint.(oxido)
 	The letter was found underneath the carpet.
 	Miners work underneath the ground.
 
