@@ -139,7 +139,7 @@ The maid put a cloth over the table
 They have built a bridge over the river.
 The helicopter was a flying over the area. (statico)
 They were talking over soccer.
-Try not to knock that vase over.
+Try not to knock that vase over.(Intenta no golpear el jarrón  más)
 The wind must have blown it over.
 The car skidded off the road and rolled over and over.
 
@@ -155,7 +155,7 @@ You get an A grade for scores of 75 and over.
 If there's any food left over; put it in the fridge.
 
 	ended
-Thank goodness that's over!.
+Thank goodness that's over!.(Gracias a dios que ha terminado).
 By the time we arrived the meeting was over.
 
 	over again; a second time from the beginning
@@ -272,7 +272,7 @@ She closed the gate at the end of the week.
 
 to close a case/an investigation
 
-__Across(acrós) a lo ancho de, a través de, al otro lado de
+__Across(acrós) a lo ancho de, a través de, al otro lado de__
 
 There was a fallen tree across the road.
 They placed a fishing net across the river.
@@ -288,8 +288,73 @@ The yard measures about 50 feet across.
 When my name was called, he looked across at me. 
 
 
+__Along(alóng) a lo largo de /round__
+	Cars were parked all along the road.
+	There were palm trees along the avenue.
+	You can see beautiful mansions all along this street.
 
-	
+__Around(aróund) alrededor de, cerca de, por__
+
+	He is wearing a chair around his neck.
+	Is there any book store around here?.
+	There is a bus stop around the corner. /a la vuelta de la esquina/
+		Approximately
+	The cost would be somewhere around €1500.
+		On every side; surrounding somebody/something
+	A yard with a fence all around.
+		Measure in a circle
+	An old tree that was at least ten feet around.
+		In or to many places
+	Kay will show you around.
+	There were papers laying around all over the floor.
+		Present in a place, available
+	There was more money around in those days.
+	I knocked but there was no one around.
+	Digital television has been around for some time now.
+	A new tennis champion who could be around for a long time.
+	She's been around as a film director since the 1980.
+
+Against(aguénst) contra, en contra de
+	Why is that table against the wall?
+	I leaned my bicycle against the tree.
+
+ON TOP OF(encima de, sobre, arriba de)
+	There was a black cat laying on top of the roof.
+	He was standing on top of the tower watching the horizon.
+
+AT THE BOTTOM OF(en la base de, debajo de, al pie de, en el fondo )
+	There was a small cabin at the bottom of the mountain.
+	The copyright notice goes at the bottom of the page.
+	They found a treasure at the bottom of the sea.
+
+IN FRONT OF(in fránt ov)
+	Just stand in front of the TV and don´t move.
+	There is a bus stop in front of my house.
+	She hit her brother right in front of her mother.
+
+OPPOSITE(frente a mi, cara a cara)
+	They sat opposite each other and started arguing.
+	My house is opposite the church.
+	I don't want her to be sitting opposite me.
+
+BEHING(detrás, detrás de)
+	There is a garden behind the house.
+	Who is the woman behind John?.
+	I wonder what is behind his friendly attitude.
+
+BESIDE(bisáid)al lado de, junto a
+	The dog stayed beside its master all right.
+	Mary sat beside me.
+
+NEXT TO(néxt tchu)al lado de, junto a
+	The bank is next to a police station.
+	Who is sitting next to Bill?
+
+WITHIN(uidin)dentro de, a menos de
+	Mary prisioners died within the walls of that prision
+	The station is within two miles from here.
+	That is not within our reach.
+		
 	
 
 	
